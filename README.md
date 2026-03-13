@@ -16,4 +16,7 @@ I'm a developer with a background in data analysis and statistics, currently exp
 ### 📌 Notable Projects
 
 - **[ordinalsimr](https://github.com/NeuroShepherd/ordinalsimr)** — R package & Shiny app for simulating ordinal endpoint results
-- **[RankinLabTools](https://github.com/NeuroShepherd/RankinLabTools)** — General data cleaning tools for the Rankin lab
+- **[university-conferences](https://github.com/NeuroShepherd/university-conferences)** — AI-assisted normalized database of university conferences with a queryable API
+- **[rag](https://github.com/NeuroShepherd/rag)** — Retrieval Augmented Generation course
+- **[a-simple-thesis-template](https://github.com/NeuroShepherd/a-simple-thesis-template)** — Master's thesis template in R
+- **[LMU Open Science Center](https://github.com/lmu-osc)** — Contributed tutorials and resources for open science practices
