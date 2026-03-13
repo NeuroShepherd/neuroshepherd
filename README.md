@@ -22,7 +22,7 @@ I'm a developer with a background in data analysis and statistics, currently exp
 ### 📌 Notable Projects
 
 - **[ordinalsimr](https://github.com/NeuroShepherd/ordinalsimr)** — R package & Shiny app for simulating ordinal endpoint results
-- **[university-conferences](https://github.com/NeuroShepherd/university-conferences)** — AI-assisted normalized database of university conferences with a queryable API built in Python using FastAPI, Pydantic, and SQLAlchemy
+- **[university-conferences](https://github.com/NeuroShepherd/university-conferences)** — AI-assisted normalized database of university conferences with a queryable API built in Python using FastAPI, Pydantic, and SQLAlchemy (current main project)
 - **[rag](https://github.com/NeuroShepherd/rag)** — Retrieval Augmented Generation course
 - **[masters-thesis](https://github.com/NeuroShepherd/masters-thesis)** — Master's thesis evaluating inter-rater reliability of RECIST 1.1 tumor measurement
-- **[LMU Open Science Center](https://github.com/lmu-osc)** — Contributed tutorials and resources for open science practices
+- **[LMU Open Science Center](https://github.com/lmu-osc)** — Contributed tutorials on {renv}, and primarily developer + GitHub Organization manager
