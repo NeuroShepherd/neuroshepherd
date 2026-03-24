@@ -8,14 +8,19 @@ I'm a developer with a background in data analysis and statistics, currently exp
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 
 ### 🌱 Currently Learning
 
 - Go
+- HTTP servers + backend dev
 - Retrieval Augmented Generation (RAG) and AI agent patterns
 - Anything and everything on Boot.dev
 
