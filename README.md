@@ -21,6 +21,7 @@ I'm a developer with a background in data analysis and statistics, currently exp
 
 - Go
 - HTTP servers + backend dev
+- FastAPI + Pydantic + Pydantic AI
 - Retrieval Augmented Generation (RAG) and AI agent patterns
 - Anything and everything on Boot.dev
 
@@ -31,3 +32,4 @@ I'm a developer with a background in data analysis and statistics, currently exp
 - **[rag](https://github.com/NeuroShepherd/rag)** — Retrieval Augmented Generation course
 - **[masters-thesis](https://neuroshepherd.github.io/masters-thesis/)** — Master's thesis evaluating inter-rater reliability of RECIST 1.1 tumor measurement
 - **[LMU Open Science Center](https://github.com/lmu-osc)** — Contributed tutorials on {renv}, and primarily developer + GitHub Organization manager
+- **[Survey Data Extractor](https://github.com/lmu-osc/survey-data-extractor/)** - Use Google Gemini API to translate free response text from a survey and extract notable quotes
